@@ -22,4 +22,4 @@ estou sempre em busca de novos desafios e oportunidades para crescer nesse fasci
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-af.mairink@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{af.mairink@gmail.com})](mailto:{af.mairink@gmail.com})
-[![Linkedin: Arthur Mairink](https://img.shields.io/badge/-ArthurMairink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-mairink-b7356a2b6/)](https://www.linkedin.com/in/arthur-mairink-b7356a2b6/)
+[![Linkedin: Arthur Mairink](https://img.shields.io/badge/-ArthurMairink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-mairink/-b7356a2b6/)](https://www.linkedin.com/in/arthur-mairink/)
