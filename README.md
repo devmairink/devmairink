@@ -2,7 +2,7 @@
 
 Sou um entusiasta da tecnologia
 Desde os 9 anos, me interesso no mundo da programação, redes de computadores e cibersegurança
-Com uma paixão por aprender sobre esse "mundo", tenho explorado diversos cursos e estudos para aprimorar minhas habilidades
+Com uma paixão por aprender sobre esse mundo, tenho explorado diversos cursos e estudos para aprimorar minhas habilidades
 Meu objetivo é me tornar um engenheiro de software renomado no futuro
 Estou sempre em busca de novos desafios e oportunidades para crescer nesse fascinante campo da tecnologia.
 
