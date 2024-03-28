@@ -15,7 +15,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer nesse fasci
 ---
 
 ## 🔧 Sistemas/Ferramentas/Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=windows,kali,vscode,mysql,nodejs,bootstrap,git,github,docker,figma,bash)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=windows,kali,vscode,mysql,nodejs,github,figma,bash,bootstrap,git,docker)](https://skillicons.dev)<br><br>
 
 ---
 
