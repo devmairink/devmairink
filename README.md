@@ -10,12 +10,12 @@ estou sempre em busca de novos desafios e oportunidades para crescer nesse fasci
 
 ## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,lua,javascript,html,css)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,sql,lua,javascript,html,css)](https://skillicons.dev)<br><br>
 
 ---
 
 ## 🔧 Sistemas/Ferramentas/Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=windows,kali,vscode,mysql,nodejs,github,figma,bash,bootstrap,git,react)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=windows,kali,vscode,mysql,nodejs,react,github,figma,bash,bootstrap,git)](https://skillicons.dev)<br><br>
 
 ---
 
