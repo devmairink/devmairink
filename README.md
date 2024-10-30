@@ -10,7 +10,7 @@ estou sempre em busca de novos desafios e oportunidades para crescer nesse fasci
 
 ## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,lua,javascript,html,css)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,typescript,lua)](https://skillicons.dev)<br><br>
 
 ---
 
